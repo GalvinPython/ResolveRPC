@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResolveRPC", "ResolveRPC\ResolveRPC.csproj", "{58BC2C1E-7318-489C-AF46-D03A7C7EFF9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58BC2C1E-7318-489C-AF46-D03A7C7EFF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58BC2C1E-7318-489C-AF46-D03A7C7EFF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58BC2C1E-7318-489C-AF46-D03A7C7EFF9A}.Debug|x64.ActiveCfg = Debug|x64
+		{58BC2C1E-7318-489C-AF46-D03A7C7EFF9A}.Debug|x64.Build.0 = Debug|x64
+		{58BC2C1E-7318-489C-AF46-D03A7C7EFF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58BC2C1E-7318-489C-AF46-D03A7C7EFF9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58BC2C1E-7318-489C-AF46-D03A7C7EFF9A}.Release|x64.ActiveCfg = Release|x64
+		{58BC2C1E-7318-489C-AF46-D03A7C7EFF9A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D216DA72-8281-49EE-B945-8AC5AE494798}
+	EndGlobalSection
+EndGlobal

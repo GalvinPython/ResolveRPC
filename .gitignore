@@ -1,0 +1,12 @@
+bin/
+obj/
+.vs/
+packages/
+installer/
+
+*.v2
+*.vsidx
+*.suo
+*.bin
+*.pfx
+*.user
